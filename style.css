@@ -1,0 +1,134 @@
+
+
+.main {
+  height: 1280px;
+  width: 720px;
+  background-color: grey;
+  position: absolute;
+  margin: 0;
+  text-align: left;
+}
+.box1 {
+  background-color: white;
+  position: absolute;
+  height: 40%;
+  width: 100%;
+  box-shadow: 5px 5px 20px -3px black;
+
+}
+.box2 {
+  background-color: #11888e;
+  position: absolute;
+  top: 40%;
+  height: 30%;
+  width: 100%;
+  box-shadow: 1px -7px 15px -3px black;
+
+}
+.box3 {
+  background-color: #11999e;
+  position: absolute;
+  top: 70%;
+  height: 30%;
+  width: 100%;
+  box-shadow: 1px -4px 10px -3px black;
+}
+.myButton {
+  position: absolute;
+  left: 8%;
+  bottom: 15%;
+  width: 60%;
+  height: 10%;
+	box-shadow: 2px 5px 20px -3px black;
+	background:linear-gradient(to bottom, #c0df34 5%, #c0df34 100%);
+	background-color:#c0df34;
+	border-radius:4px;
+	display:inline-block;
+	cursor:pointer;
+  text-align: center;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:19px;
+	font-weight:bold;
+	padding:15px 76px 13px 76px;
+	text-decoration:none;
+	text-shadow:0 0 0 grey;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #c0df34 5%, #c0df34 100%);
+	background-color:#c0df34;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.line1 {
+  font-family: 'Karla', sans-serif;
+  font-weight: 700;
+  color: #2ab2af;
+  margin: 30px 50px 50px 50px;
+  font-size: 45px;
+}
+.line2 {
+  font-family: 'Karla', sans-serif;
+  font-weight: 600;
+  color: #c0df34;
+  margin: 30px 50px 50px 50px;
+  font-size: 35px;
+}
+.line3 {
+  font-family: 'Karla',sans-serif;
+  font-weight: 400;
+  color: grey;
+  line-height: 2;
+  margin: 40px 50px 20px 50px;
+  font-size: 25px;
+
+}
+.b2line1 {
+  font-family: 'Karla',sans-serif;
+  font-weight: 700;
+  color: white;
+  line-height: normal;
+  margin: 30px 50px 10px 50px;
+  font-size: 40px;
+}
+.dollar {
+  font-family: 'Karla',sans-serif;
+  font-weight: 700;
+  color: white;
+  line-height: normal;
+  margin: 10px 50px 20px 50px;
+  font-size: 60px;
+}
+.permonth {
+  font-family: 'Karla', sans-serif;
+  position: absolute;
+  left: 26%;
+  top: 22%;
+  color: #e5eef5;
+  font-weight: 100;
+  font-size: 25px;
+}
+.b2line3 {
+  font-family: 'karla', sans-serif;
+  font-weight: 400;
+  color: white;
+  margin: 30px 50px 10px 50px;
+}
+.b3line1 {
+  font-family: 'Karla',sans-serif;
+  font-weight: 700;
+  color: white;
+  line-height: normal;
+  margin: 30px 50px 10px 50px;
+  font-size: 40px;
+}
+.b3line2 {
+  font-family: 'Karla',sans-serif;
+  font-weight: 400;
+  color: #e5eef5;
+  line-height: normal;
+  margin: 40px 50px 20px 50px;
+  font-size: 20px;
+}
